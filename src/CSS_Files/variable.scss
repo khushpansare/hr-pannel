@@ -1,0 +1,19 @@
+// Light Theme Variables
+$primary-color-light: #ffffff;
+$secondary-color-light: #f0f0f0;
+$text-color-light: #000000;
+$link-color-light: #1a73e8;
+
+// Dark Theme Variables
+$primary-color-dark: #121212;
+$secondary-color-dark: #1f1f1f;
+$text-color-dark: #e0e0e0;
+$link-color-dark: #8ab4f8;
+
+//
+$bg-purple: #8676ff;
+$drawer-width: 15%;
+:root {
+  --drawer-width: #{$drawer-width};
+}
+// $half-drawer-width: 15%;

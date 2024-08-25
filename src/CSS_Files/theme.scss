@@ -1,0 +1,30 @@
+// @import "./variable.scss";
+
+.light-theme {
+  --primary-color: #{$primary-color-light};
+  --secondary-color: #{$secondary-color-light};
+  --text-color: #{$text-color-light};
+  --link-color: #{$link-color-light};
+}
+
+.dark-theme {
+  --primary-color: #{$primary-color-dark};
+  --secondary-color: #{$secondary-color-dark};
+  --text-color: #{$text-color-dark};
+  --link-color: #{$link-color-dark};
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: var(--link-color);
+}
+
+header {
+  background-color: var(--secondary-color);
+}
