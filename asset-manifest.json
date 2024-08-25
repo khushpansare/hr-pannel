@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hr-pannel/static/css/main.52e04c82.css",
+    "main.js": "/hr-pannel/static/js/main.0d57e06a.js",
+    "static/js/453.59d23ddc.chunk.js": "/hr-pannel/static/js/453.59d23ddc.chunk.js",
+    "static/media/avatar-25.webp": "/hr-pannel/static/media/avatar-25.fbf48a8e618943324923.webp",
+    "index.html": "/hr-pannel/index.html",
+    "main.52e04c82.css.map": "/hr-pannel/static/css/main.52e04c82.css.map",
+    "main.0d57e06a.js.map": "/hr-pannel/static/js/main.0d57e06a.js.map",
+    "453.59d23ddc.chunk.js.map": "/hr-pannel/static/js/453.59d23ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52e04c82.css",
+    "static/js/main.0d57e06a.js"
+  ]
+}
